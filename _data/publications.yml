@@ -1,5 +1,15 @@
 main:
 
+  - title: Efficient Deep Speech Understanding at the Edge
+    authors: <strong>Rongxiang Wang</strong>, Felix Xiaozhu Lin
+    #conference_short: MICCAI
+    conference: arxiv
+    pdf: https://arxiv.org/abs/2311.17065
+    #code: https://github.com/MrGiovanni/ContinualLearning
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    #image: ./assets/img/teaser_example_2.png
+    #notes: Early Accept
+
   - title: ASTER accurately estimating the number of cell types in single-cell chromatin accessibility data
     authors: Shengquan Chen*, <strong>Rongxiang Wang</strong>, Wenxin Long and Rui Jiang* (*Corresponding authors)
     #conference_short: MICCAI
@@ -10,12 +20,3 @@ main:
     #image: ./assets/img/teaser_example_2.png
     #notes: Early Accept
 
-  - title: Efficient Deep Speech Understanding at the Edge
-    authors: <strong>Rongxiang Wang</strong>, Felix Xiaozhu Lin
-    #conference_short: MICCAI
-    conference: arxiv
-    pdf: https://arxiv.org/abs/2311.17065
-    #code: https://github.com/MrGiovanni/ContinualLearning
-    #bibtex: https://bib.yliu.me/MICCAI23.txt
-    #image: ./assets/img/teaser_example_2.png
-    #notes: Early Accept
