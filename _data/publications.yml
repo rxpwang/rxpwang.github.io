@@ -10,11 +10,11 @@ main:
     #image: ./assets/img/teaser_example_2.png
     #notes: Early Accept
 
-  - title: Accurate and interpretable enhancement for single-cell chromatin accessibility sequencing data with scCASE
+  - title: scCASE: accurate and interpretable enhancement for single-cell chromatin accessibility sequencing data
     authors: Songming Tang, Xuejian Cui, <strong>Rongxiang Wang</strong>, Sijie Li, Siyu Li, Xin Huang, Shengquan Chen
     #conference_short: MICCAI
-    conference: zenodo
-    pdf: https://zenodo.org/records/10458262
+    conference: Nature Communications
+    pdf: https://www.nature.com/articles/s41467-024-46045-w
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     #image: ./assets/img/teaser_example_2.png
