@@ -3,7 +3,7 @@ main:
   - title: Efficient Deep Speech Understanding at the Edge
     authors: <strong>Rongxiang Wang</strong>, Felix Xiaozhu Lin
     #conference_short: MICCAI
-    conference: arxiv
+    conference: MobiCom 2024
     pdf: https://arxiv.org/abs/2311.17065
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
