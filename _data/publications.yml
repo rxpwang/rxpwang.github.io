@@ -1,6 +1,6 @@
 main:
 
-  - title: Efficient Deep Speech Understanding at the Edge
+  - title: Turbocharge Speech Understanding with Pilot Inference
     authors: <strong>Rongxiang Wang</strong>, Felix Xiaozhu Lin
     #conference_short: MICCAI
     conference: MobiCom 2024
