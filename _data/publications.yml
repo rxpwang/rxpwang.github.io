@@ -1,10 +1,19 @@
 main:
+  - title: Efficient Whisper on Streaming Speech
+    authors: <strong>Rongxiang Wang</strong>, Zhiming Xu, Felix Xiaozhu Lin
+    #conference_short: MICCAI
+    conference: Arxiv
+    pdf: https://arxiv.org/abs/2412.11272
+    #code: https://github.com/MrGiovanni/ContinualLearning
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    #image: ./assets/img/teaser_example_2.png
+    #notes: Early Accept
 
   - title: Turbocharge Speech Understanding with Pilot Inference
     authors: <strong>Rongxiang Wang</strong>, Felix Xiaozhu Lin
     #conference_short: MICCAI
     conference: MobiCom 2024
-    pdf: https://arxiv.org/abs/2311.17065
+    pdf: https://dl.acm.org/doi/10.1145/3636534.3690694
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     #image: ./assets/img/teaser_example_2.png
