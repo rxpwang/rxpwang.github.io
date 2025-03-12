@@ -19,6 +19,16 @@ main:
     #image: ./assets/img/teaser_example_2.png
     #notes: Early Accept
 
+  - title: AnA: An Attentive Autonomous Driving System
+    authors: Wonkyo Choe, <strong>Rongxiang Wang</strong>, Felix Xiaozhu Lin
+    #conference_short: MICCAI
+    conference: ASPLOS 2025
+    pdf: https://dl.acm.org/doi/10.1145/3669940.3707261
+    #code: https://github.com/MrGiovanni/ContinualLearning
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    #image: ./assets/img/teaser_example_2.png
+    #notes: Early Accept
+
   - title: "scCASE: accurate and interpretable enhancement for single-cell chromatin accessibility sequencing data"
     authors: Songming Tang, Xuejian Cui, <strong>Rongxiang Wang</strong>, Sijie Li, Siyu Li, Xin Huang, Shengquan Chen
     #conference_short: MICCAI
