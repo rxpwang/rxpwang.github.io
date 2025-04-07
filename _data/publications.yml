@@ -1,8 +1,8 @@
 main:
-  - title: Efficient Whisper on Streaming Speech
+  - title: "WhisperFlow: speech foundation models in real time"
     authors: <strong>Rongxiang Wang</strong>, Zhiming Xu, Felix Xiaozhu Lin
     #conference_short: MICCAI
-    conference: Arxiv
+    conference: MobiSys 2025
     pdf: https://arxiv.org/abs/2412.11272
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
